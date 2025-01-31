@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @NiloyanSellathurai02
-- 👀 I’m interested in Programming with HTML/CSS/Javascript/Node.JS/MongoDB/PHP/MySQL
-- 🌱 I’m currently learning PHP,React,MySQL
-- 📫 How to reach me contact@niloyansellathurai.dev
+👋 Hey, ik ben Niloyan Sellathurai!
+
+🎓 Student Associate Degree Software Development @ Hogeschool Windesheim
+💻 Dit is mijn school GitHub, mijn privé GitHub is ...@......
+
+🚀 Tech Stack (2 jaar ervaring):
+🔹 C# / ASP.NET
+🔹 Laravel / PHP
+🔹 React.js / JavaScript
+
+💡 Gepassioneerd over softwareontwikkeling, altijd lerend en bouwend aan nieuwe projecten!
+
+
